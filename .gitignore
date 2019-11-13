@@ -2,6 +2,7 @@
 figs/
 test.py
 ex1.py
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
