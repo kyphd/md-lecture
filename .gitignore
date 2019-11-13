@@ -1,3 +1,8 @@
+# my ignore
+figs/
+test.py
+ex1.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
